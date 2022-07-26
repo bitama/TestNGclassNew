@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-26T13:26:38 CDT" name="Default suite" finished-at="2022-07-26T13:26:44 CDT" duration-ms="6208">
+    <groups>
+    </groups>
+    <test started-at="2022-07-26T13:26:38 CDT" name="Default test" finished-at="2022-07-26T13:26:44 CDT" duration-ms="6208">
+      <class name="variousConcept.TestNG_Class">
+        <test-method is-config="true" signature="readConfig()[pri:0, instance:variousConcept.TestNG_Class@6f46426d]" started-at="2022-07-26T13:26:38 CDT" name="readConfig" finished-at="2022-07-26T13:26:38 CDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method is-config="true" signature="lauchBrowser()[pri:0, instance:variousConcept.TestNG_Class@6f46426d]" started-at="2022-07-26T13:26:38 CDT" name="lauchBrowser" finished-at="2022-07-26T13:26:40 CDT" duration-ms="1662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method signature="customerTest()[pri:0, instance:variousConcept.TestNG_Class@6f46426d]" started-at="2022-07-26T13:26:40 CDT" name="customerTest" finished-at="2022-07-26T13:26:42 CDT" duration-ms="2445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:variousConcept.TestNG_Class@6f46426d]" started-at="2022-07-26T13:26:42 CDT" name="tearDown" finished-at="2022-07-26T13:26:42 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="lauchBrowser()[pri:0, instance:variousConcept.TestNG_Class@6f46426d]" started-at="2022-07-26T13:26:42 CDT" name="lauchBrowser" finished-at="2022-07-26T13:26:44 CDT" duration-ms="1284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method signature="login()[pri:0, instance:variousConcept.TestNG_Class@6f46426d]" started-at="2022-07-26T13:26:44 CDT" name="login" finished-at="2022-07-26T13:26:44 CDT" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:variousConcept.TestNG_Class@6f46426d]" started-at="2022-07-26T13:26:44 CDT" name="tearDown" finished-at="2022-07-26T13:26:44 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- variousConcept.TestNG_Class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
